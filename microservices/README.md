@@ -22,4 +22,4 @@ Under the terms of the [MIT][3].
 [2]: https://docs.openshift.com/enterprise/latest/welcome/index.html
 [3]: https://opensource.org/licenses/MIT
 
-Blah, blah, blah....
+Blah, blah, blah....blah
